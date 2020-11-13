@@ -1,5 +1,5 @@
 ## Overview
-This is Digital Store with opencart 1.5.6
+This is Digital Store Theme, powered with Opencart 1.5.6.4
 ## How to install
 1. Download opencart1.5.6.zip and extract to root directory
 2. Rename admin/config-dist.php => admin/config.php
